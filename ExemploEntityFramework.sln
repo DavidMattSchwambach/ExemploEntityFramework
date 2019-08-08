@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{2DFB04C8-71A8-4257-8C6F-28A7250CB6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{0B12D282-06B5-4E22-BDC6-98F8DD3D73E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "view", "view\view.csproj", "{7C9E4C27-938E-41B8-B3A7-BC4525F20B4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DFB04C8-71A8-4257-8C6F-28A7250CB6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFB04C8-71A8-4257-8C6F-28A7250CB6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFB04C8-71A8-4257-8C6F-28A7250CB6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFB04C8-71A8-4257-8C6F-28A7250CB6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B12D282-06B5-4E22-BDC6-98F8DD3D73E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B12D282-06B5-4E22-BDC6-98F8DD3D73E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B12D282-06B5-4E22-BDC6-98F8DD3D73E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B12D282-06B5-4E22-BDC6-98F8DD3D73E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9E4C27-938E-41B8-B3A7-BC4525F20B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9E4C27-938E-41B8-B3A7-BC4525F20B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9E4C27-938E-41B8-B3A7-BC4525F20B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9E4C27-938E-41B8-B3A7-BC4525F20B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9563608F-9643-440C-A832-30CB97D3DDC4}
+	EndGlobalSection
+EndGlobal
