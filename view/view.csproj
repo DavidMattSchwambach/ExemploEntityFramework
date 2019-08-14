@@ -17,7 +17,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="App_Data\" />
     <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\computador\Computador-Index.js" />
   </ItemGroup>
 
 </Project>
